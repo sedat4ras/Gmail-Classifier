@@ -1,7 +1,5 @@
 #  AI-Powered Gmail Classifier & Assistant
 
-![n8n Workflow View](workflow_screenshot.jpg)
-
 > An advanced automation workflow built with **n8n** that uses **OpenAI (GPT-4o)** to declutter your inbox. It automatically classifies incoming emails, summarizes social updates, and drafts context-aware replies.
 
 [![n8n](https://img.shields.io/badge/n8n-Workflow-FF6D5A?style=flat-square&logo=n8n)](https://n8n.io/)
