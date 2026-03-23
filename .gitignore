@@ -1,0 +1,15 @@
+# Environment variables - never commit real credentials
+.env
+.env.local
+.env.*.local
+
+# n8n workflow exports with credentials - use "Export without credentials" option
+# *.json  <- uncomment this if you want to block all JSON exports
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
